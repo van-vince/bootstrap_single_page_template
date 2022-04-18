@@ -1,1 +1,1 @@
-# bootstrap_single_page_template
+# vvstech_single_page
